@@ -11,6 +11,5 @@ Analisi dell’oscillazione, stabilità di fase e consumo energetico tramite **A
 - ADS (Advanced Design System)  
 
 ## Risultati
-Progetto validato con simulazioni che mostrano corretta frequenza di oscillazione e stabilità del circuito.
-# lc-tank-oscillator
-Progettazione e simulazione di oscillatore LC-Tank in ADS per circuiti integrati wireless.
+Progetto validato con simulazioni che mostrano corretto funzionamento.
+
